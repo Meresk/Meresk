@@ -1,4 +1,7 @@
+<p align="center">
 ![Header](https://github.com/Meresk/Meresk/blob/main/assets/catProg.gif)
+</p>
+
 ##
 
 ### About me:
