@@ -1,5 +1,5 @@
 <p align="center">
-![Header](https://github.com/Meresk/Meresk/blob/main/assets/catProg.gif)
+  <img src="https://github.com/Meresk/Meresk/blob/main/assets/catProg.gif" alt="Header">
 </p>
 
 ##
