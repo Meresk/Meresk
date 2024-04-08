@@ -21,6 +21,8 @@
 ### Learning:
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=E5D3FF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=E9D54D)
+![Css](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3&logoColor=E9D54D)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=E9D54D)
 ![Linux](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux&logoColor=E5D3FF)
 ![Photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=E5D3FF)
