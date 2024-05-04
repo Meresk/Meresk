@@ -28,6 +28,6 @@
 ![Photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=E5D3FF)
 
 ### Contacts:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Meresk1)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Satoromi)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/idmeresk)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=4F7DB3)](https://discordapp.com/users/429557519891955713/)
