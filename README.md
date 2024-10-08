@@ -6,9 +6,6 @@
 
 ### About me:
 18 y.o student
-#### Hobby:
-![Hobby](https://img.shields.io/badge/Cybersecurity%20and%20pentest-090909?style=for-the-badge&logo=kalilinux&logoColor=E5D3FF)
-
 
 ### Languages and Tools:
 ![Csharp](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=csharp&logoColor=E5D3FF)
