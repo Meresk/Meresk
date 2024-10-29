@@ -7,8 +7,6 @@
 ### About me:
 18 y.o student
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meresk&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Languages and Tools:
 ![Csharp](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=csharp&logoColor=E5D3FF)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
