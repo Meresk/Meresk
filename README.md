@@ -5,7 +5,7 @@
 ##
 
 ### About me:
-18 y.o student
+19 y.o student
 
 ### Languages and Tools:
 ![Csharp](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=csharp&logoColor=E5D3FF)
