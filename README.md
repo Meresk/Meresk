@@ -19,8 +19,5 @@
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker&logoColor=E5D3FF)
 
 ### Contacts:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Satoromi)
-[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=4F7DB3)](https://discordapp.com/users/429557519891955713/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/soreyui)
 
-### Site:
-[![Meresk.ru](https://img.shields.io/badge/-MERESK.RU-090909?style=for-the-badge)](https://meresk.ru)
