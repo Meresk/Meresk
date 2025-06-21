@@ -12,7 +12,7 @@
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=E5D3FF)
 ![Golang](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=E5D3FF)
-![SQL](https://img.shields.io/badge/-MSSQL-090909?style=for-the-badge&logo=microsoftsqlserver&logoColor=E5D3FF)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=microsoftsqlserver&logoColor=E5D3FF)
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=E5D3FF)
 ![Linux](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux&logoColor=E5D3FF)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker&logoColor=E5D3FF)
