@@ -12,6 +12,11 @@
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=E5D3FF)
 ![Golang](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=E5D3FF)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=E5D3FF)
+![CSS3](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=E5D3FF)
+![TS](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript&logoColor=E5D3FF)
+![JS](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript&logoColor=E5D3FF)
+
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=microsoftsqlserver&logoColor=E5D3FF)
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=E5D3FF)
 ![Linux](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux&logoColor=E5D3FF)
